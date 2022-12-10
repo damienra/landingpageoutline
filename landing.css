@@ -1,0 +1,30 @@
+.body {
+    align-items:center;
+}
+
+element.style {
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    
+ 
+ 
+ .navigation {
+    align-items: center;
+    flex-wrap:wrap;
+    margin-left: 250px;
+ }
+
+ .wrapper {
+    flex-wrap:wrap;
+    align-items: center;
+ }
